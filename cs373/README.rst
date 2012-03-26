@@ -27,7 +27,7 @@ Learning Resources(credits: Udacity Forums)
    `A* visualization 
    <http://www.vision.ee.ethz.ch/~cvcourse/astar/AStar.html>`_
 
-    `Heuristics 
+   `Heuristics 
     <http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html>`_
 
 
