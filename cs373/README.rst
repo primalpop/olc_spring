@@ -24,9 +24,11 @@ Learning Resources(credits: Udacity Forums)
 
  #. Unit 4 
  
-    A-star visualization - http://www.vision.ee.ethz.ch/~cvcourse/astar/AStar.html
+   `A* visualization 
+   <http://www.vision.ee.ethz.ch/~cvcourse/astar/AStar.html>`_
 
-    Heuristics - http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html
+    `Heuristics 
+    <http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html>`_
 
 
 
